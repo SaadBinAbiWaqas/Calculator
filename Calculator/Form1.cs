@@ -12,6 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Calculator
 {
+    // class form 
     public partial class Form1 : Form
     {
         public Form1()
@@ -26,6 +27,7 @@ namespace Calculator
 
         }
 
+        // below is all the functions which do operations
         private void button4_Click(object sender, EventArgs e)
         {
 
